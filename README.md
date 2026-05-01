@@ -1,2 +1,2 @@
-# bestea-shipping-kpi
+# bestea-cart-addons
 Created with CodeSandbox
